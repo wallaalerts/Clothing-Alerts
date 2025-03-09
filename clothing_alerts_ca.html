@@ -138,7 +138,10 @@
     <script>
         function changeLanguage() {
             var language = document.getElementById("language-select").value;
+            
+            
             var newUrl = "https://clothing-alerts.com/clothing_alerts_" + language + ".html";
+            if (language == "en") newUrl = "https://clothing-alerts.com";
             window.location.href = newUrl;
         }
     </script>
