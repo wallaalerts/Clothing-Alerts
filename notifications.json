@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "end_date": "2025-12-31",
+      "title": "Important Update Coming Soon",
+      "min_version": 50,
+      "max_version": 70,
+      "message": "We're excited to announce that a major update is coming soon with new features! <a href='https://play.google.com/store/apps/details?id=rstu.clothing_alerts'>Check the Play Store</a> for updates in the next few days."
+    },
+    {
+      "id": 2,
+      "end_date": "2025-05-30",
+      "title": "Service Maintenance",
+      "min_version": 54,
+      "max_version": 65,
+      "message": "Our service will be undergoing maintenance on May 25th. The app might experience temporary disruptions during this period. Thank you for your patience."
+    },
+    {
+      "id": 3,
+      "end_date": "2025-07-15",
+      "title": "Discount Sale Alert",
+      "min_version": 40,
+      "max_version": 100,
+      "message": "Don't miss our partner's summer sale! Use code CLOTHING25 for 25% off. <a href='https://www.partner-clothing-store.com/summer-sale'>Visit their website</a> to learn more."
+    }
+  ]
+}
